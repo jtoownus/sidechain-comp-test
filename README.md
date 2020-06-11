@@ -2,7 +2,7 @@
 
 This sidechain application allows pet owners to register their furry friends.
 
-![Application Workflow](graphics/sidechain-comp-example-graphic.md)
+![Application Workflow](https://github.com/jtoownus/sidechain-comp-test/blob/master/grafics/sidechain-comp-example-graphic.png)
 
 ## Features
 
