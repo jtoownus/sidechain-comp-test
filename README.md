@@ -6,7 +6,7 @@ This sidechain application allows pet owners to register their furry friends.
 
 The following features are supported by the Horizen Pets application.
 
-### Regsiter Pet
+### Register Pet
 
 Create a digital identity for your dog, cat, or what-not.
 
