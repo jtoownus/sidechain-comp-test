@@ -2,6 +2,8 @@
 
 This sidechain application allows pet owners to register their furry friends.
 
+![Application Workflow](graphics/sidechain-comp-example-graphic.md)
+
 ## Features
 
 The following features are supported by the Horizen Pets application.
